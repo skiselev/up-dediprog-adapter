@@ -12,6 +12,7 @@ This is an adapter for flashing the SPI BIOS on Aaeon [UP Squared](https://up-sh
 ## Bill of Materials
 
 [UP2/Xtreme to DediProg Adapter project on Mouser.com](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=8a40311779) - View and order all components except of the PCB.
+
 [UP2/Xtreme to DediProg Adapter project on OSH Park](https://oshpark.com/shared_projects/vo0UxDLG) - Order PCBs.
 
 Component type     | Reference | Description                                 | Quantity | Possible sources and notes
