@@ -3,6 +3,8 @@
 ## Introduction
 This is an adapter for flashing the SPI BIOS on Aaeon [UP Squared](https://up-shop.org/up-squared-series.html) and [UP Xtreme](https://up-board.org/up-xtreme/) boards using [DediProg SF100](https://www.dediprog.com/product/SF100) or [DediProg SF600](https://www.dediprog.com/product/SF600) with [ADP-SF600-TO-SF100-CB](https://www.dediprog.com/product/ADP-SF600-TO-SF100-CB) adapter
 
+![UP2/Xtreme to DediProg Adapter 3D View](images/UP-SPI-Adapter-3D.png)
+
 ## Schematics
 
 ![UP2/Xtreme to DediProg Adapter schematics](images/UP-SPI-Adapter.png)
