@@ -17,6 +17,6 @@ This is an adapter for flashing the SPI BIOS on Aaeon [UP Squared](https://up-sh
 
 Component type     | Reference | Description                                 | Quantity | Possible sources and notes
 ------------------ | --------- | ------------------------------------------- | -------- | --------------------------
-PCB                |           | UP2/Xtreme to DediProg Adapter PCB          | 1        | Order from [OSH Park](https://oshpark.com/shared_projects/vo0UxDLG) or another PCB manufacturer using provided KiCad files
+PCB                |           | UP2/Xtreme to DediProg Adapter PCB          | 1        | Order from [OSH Park](https://oshpark.com/shared_projects/vo0UxDLG) or another PCB manufacturer using provided KiCad or Gerber files
 Connector          | J1        | 2x6 pin socket, 1.27 mm lead pitch          | 1        | Mouser [649-221321-00012T4LF](https://www.mouser.com/ProductDetail/649-221321-00012T4LF)
 Connector          | J2        | 2x4 pin header, 2.54 mm lead pitch          | 1        | Mouser [571-5-146131-3](https://www.mouser.com/ProductDetail/571-5-146131-3)
